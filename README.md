@@ -12,7 +12,7 @@ This is a backend API for a E-commerce application. It is built using Node.js an
 ## Features
 <ul>
 <li>create product name and quntity</li>
-<li>change the quntity</li>
+<li>Update the quntity</li>
 <li>Delete the product using ID</li>
 </ul>
 
